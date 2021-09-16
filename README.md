@@ -3,7 +3,7 @@
 Hi, I'm MariaPaula! I'm a full stack web developer who passionate about creating high quality websites and applications with technologies like HTML, CSS, JavaScript, and Python.   
 
 
-- 🔭 I'm currently on the job hunt! 
+- 🔭 I'm currently a Web Engineer at Canonical
 - 🌱 I'm learning how to use React-Native.
 - 📫 Reach me at mptruj015@gmail.com | [LinkedIn](https://www.linkedin.com/in/mariapaula-trujillo/)
 
