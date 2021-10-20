@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Hi, I'm MariaPaula! I'm a full stack web developer who passionate about creating high quality websites and applications with technologies like HTML, CSS, JavaScript, and Python.   
+Hi, I'm MariaPaula! I'm a full stack web developer who's passionate about creating high quality websites and applications with technologies like HTML, CSS, JavaScript, and Python.   
 
 
 - 🔭 I'm a Web Engineer at Canonical
