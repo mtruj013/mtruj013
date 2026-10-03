@@ -4,7 +4,6 @@ Hi, I'm MariaPaula! I'm a full stack web developer who's passionate about creati
 
 
 - 🔭 I'm a Web Engineer at Canonical
-- 🌱 I'm learning how to use React-Native.
 - 📫 Reach me at mptruj015@gmail.com | [LinkedIn](https://www.linkedin.com/in/mariapaula-trujillo/)
 
 ### 🛠 &nbsp;Tech Stack
